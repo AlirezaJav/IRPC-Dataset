@@ -11,6 +11,4 @@ Three different rendering solutions are used to render the decoded PCs: </br>
 <p>
 Decoded PCs were evaluated by people through a subjective test in three different sessions for each rendering methods. Table of MOS scores for each test session is also provided. 
 </p>
-<p>
-In this repository all test materials and the associated MOS scores are provided for any further use. Please cite this paper (link) if you are using this data. 
-</p>
+
