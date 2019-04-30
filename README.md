@@ -11,4 +11,10 @@ Three different rendering solutions are used to render the decoded PCs: </br>
 <p>
 Decoded PCs were evaluated by people through a subjective test in three different sessions for each rendering methods. Table of MOS scores for each test session is also provided. 
 </p>
+<p>
+<b>Originals and Normals</b>
+</p>
+<p>
+Original point clouds and normals are uploaded. For objective metric evaluations, normals provided in Normals folder have to be used. Only in case of 12 bit data, Since V-PCC only codes 10-bit data, original point clouds are voxelized to 10-bit and also added to repository to be used for V-PCC decoded data. Normals for these point clouds are estimated using Point Cloud Library (PCL) 16 nearest neighbors as suggeste in MPEG N16716.
 
+</p>
