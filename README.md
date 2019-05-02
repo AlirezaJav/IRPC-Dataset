@@ -19,4 +19,4 @@ Original point clouds and normals are uploaded. For objective metric evaluations
 
 </p>
 <p>
-  If you are interested in rendered videos, Please send an <a href = "mailto:joao.ascenso@lx.it.pt">email</a> to us.
+  If you are interested in rendered videos, please send an <a href = "mailto:joao.ascenso@lx.it.pt">email</a> to us.
