@@ -18,3 +18,5 @@ Decoded PCs were evaluated by people through a subjective test in three differen
 Original point clouds and normals are uploaded. For objective metric evaluations, normals provided in Normals folder have to be used. Only in case of 12 bit data, Since V-PCC only codes 10-bit data, original point clouds are voxelized to 10-bit and also added to repository to be used for V-PCC decoded data. Normals for these point clouds are estimated using Point Cloud Library (PCL) 16 nearest neighbors as suggested in MPEG N16716.
 
 </p>
+<p>
+  If you are interested in rendered videos, Please send an email to <a href = "mailto:joao.ascenso@lx.it.pt?subject = Feedback&body = Message"> João Ascenso</a>
