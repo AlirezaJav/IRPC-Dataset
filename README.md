@@ -1,4 +1,4 @@
-# IST Rendered Point Cloud Dataset
+# IST Rendered Point Cloud Quality Assessment Dataset
 <p>
 Six different voxelized PCs from MPEG repository are compressed with three different codecs in three different rates representing low, medium and high quality. Octree-based compresseion scheme in PCL, MPEG G-PCC and MPEG V-PCC point cloud codecs have been used. Rates are selected based on the coding parameters suggested in MPEG Common Test Conditions(CTC). More details can be found in the article (will be updated soon)</br>
 </p>
