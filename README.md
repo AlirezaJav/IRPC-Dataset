@@ -9,7 +9,10 @@ Three different rendering solutions are used to render the decoded PCs: </br>
 •	<b>RColor session:</b> The decoded PCs have original texture, no shading and a point-based representation.</br>
 </p>
 <p>
-Decoded PCs were evaluated by people through a subjective test in three different sessions for each rendering methods. Table of MOS scores for each test session is also provided. 
+Decoded PCs were evaluated by people through a subjective test in three different sessions for each rendering methods. Table of MOS for each test session is also provided. 
+</p>
+<p>
+<b>Update:</b> MOS of 18 people that has participated in all three sessions are added. It is <u>recommended</u> to use this data.
 </p>
 <p>
 <b>Originals and Normals</b>
