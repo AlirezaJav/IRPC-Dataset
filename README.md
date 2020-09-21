@@ -12,7 +12,7 @@ Three different rendering solutions are used to render the decoded PCs: </br>
 Decoded PCs were evaluated by people through a subjective test in three different sessions for each rendering methods. Table of MOS for each test session is also provided. 
 </p>
 <p>
-<b>Update:</b> MOS of 18 people that has participated in all three sessions are added. It is <u>recommended</u> to use this data.
+<b>Update:</b> MOS of 18 people that has participated in all three sessions are added. It is <strong>recommended</strong> to use this data in file "MOS_CommonSubjects.xlsx".
 </p>
 <p>
 <b>Originals and Normals</b>
