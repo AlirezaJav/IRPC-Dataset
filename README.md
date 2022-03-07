@@ -22,5 +22,5 @@ Original point clouds and normals are uploaded. For objective metric evaluations
 
 </p>
 <p>
-  Please cite the following <a href = "https://arxiv.org/abs/1912.09137">paper</a> if you are using this database. If you are interested in rendered videos, please send an <a href = "mailto:joao.ascenso@lx.it.pt">email</a> to us.
+  Please cite the following <a href = "https://ieeexplore.ieee.org/document/9257015">paper</a> if you are using this database. If you are interested in rendered videos, please send an <a href = "mailto:joao.ascenso@lx.it.pt">email</a> to us.
 </p>
